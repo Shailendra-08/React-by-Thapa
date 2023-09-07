@@ -1,0 +1,67 @@
+what is react ?
+
+A javascript library for building users interface.
+
+complex user interface into working  component tree.
+
+we can create a single page application in a react. (SPA).
+
+--------------------------------------------------------
+
+What is JSX ?
+
+JSX stand for (javascript XML)
+
+-------------------------------------------------------
+
+what is ES6 ? 
+
+// let and const
+//arrow function
+
+function sayName(name){       --- Traditional way to organise the function
+    console.log(name);
+}
+
+sayName();
+
+----------------------------------
+arrow function
+
+()=>           --syntax
+
+
+-------------------------------------------------------------
+Export and Import (Modules)
+
+export and import keywords
+
+----------------------------------------------------------
+class, constructor, new, extend are the keywords 
+
+----------------------------------------------------------
+
+spread and rest operator  (...)
+
+
+---------------------------------------------------------------
+
+Destructuring of array
+
+---> array or  object property store at different location
+
+let list = ["Audi","BMW","Honda"]  // these is a list or array we can say
+
+let [car1,car2,car3]= list;  // these is destructering of list each variable is assigned with different values of array or list
+
+
+-----------------------------------------------------------------------
+
+component in React?
+
+React is all about component.
+
+---> component are reusable building block in user interface (html and css with js make a component).
+--> reusable
+--> help in maintainability of code
+
