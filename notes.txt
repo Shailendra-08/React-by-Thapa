@@ -65,3 +65,55 @@ React is all about component.
 --> reusable
 --> help in maintainability of code
 
+--------------------------------------------------------
+we Learn how to make a Components
+how to call 
+how to use 
+
+----------------------------------------------------------
+What is "Props" ?? Data passing via "props"
+
+-----{//write the javascript code inside it}  // nothig but props
+
+To pass data inside the component is called props
+
+-------------------------------------------------------------
+
+Multiple component in React
+
+
+-------------------------------------------------------------
+
+What is State is React?
+ 
+useState()  --- is a hook and how to identify its a hook is that its always start with the use.
+
+const [title, setTitle] = useState(props.title);
+
+setTitle('New title');
+
+NOTE:: Whose value is going to change we have to create useState for that not a normal let or const 
+
+(event)  // it is an object
+
+const [title,setTitle] = useState(props.title);   -- it is noting just like a variable but can be change dinamically
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
