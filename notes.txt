@@ -24,12 +24,10 @@ function sayName(name){       --- Traditional way to organise the function
 }
 
 sayName();
-
 ----------------------------------
 arrow function
 
 ()=>           --syntax
-
 
 -------------------------------------------------------------
 Export and Import (Modules)
@@ -42,8 +40,6 @@ class, constructor, new, extend are the keywords
 ----------------------------------------------------------
 
 spread and rest operator  (...)
-
-
 ---------------------------------------------------------------
 
 Destructuring of array
@@ -99,21 +95,11 @@ NOTE:: Whose value is going to change we have to create useState for that not a 
 const [title,setTitle] = useState(props.title);   -- it is noting just like a variable but can be change dinamically
 
 
+-------------------------------------------------------
+API --(application Programming language)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+----------------------------------------------------
+useEffect();
+it used to run a block for a particular time [] empty array run for 1 time only
 
